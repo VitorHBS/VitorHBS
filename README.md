@@ -1,5 +1,7 @@
 # Vitor Hugo
 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 Back-end Developer focused on Node.js and TypeScript.
 
 ## Technologies
