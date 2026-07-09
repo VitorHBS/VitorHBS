@@ -147,16 +147,6 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VitorHBS/VitorHBS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 *"Consistência importa mais que perfeição — cada projeto é um degrau."*
