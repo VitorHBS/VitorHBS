@@ -153,10 +153,10 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VitorHBS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=VitorHBS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorHBS&theme=tokyonight&hide_border=true&background=0F0524&stroke=7C3AED&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHBS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorHBS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
 
 </div>
 
@@ -166,7 +166,7 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VitorHBS&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=VitorHBS&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
