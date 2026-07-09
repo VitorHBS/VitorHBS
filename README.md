@@ -145,35 +145,9 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=VitorHBS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=60A5FA&icon_color=3B82F6&text_color=93C5FD&ring_color=2563EB" width="65%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorHBS&theme=tokyonight&hide_border=true&background=0A0E27&stroke=2563EB&ring=3B82F6&fire=60A5FA&currStreakLabel=93C5FD" width="65%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorHBS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=60A5FA&text_color=93C5FD" width="65%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=VitorHBS&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorHBS&theme=tokyo-night&bg_color=0A0E27&color=60A5FA&line=3B82F6&point=93C5FD&hide_border=true" width="100%"/>
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=VitorHBS&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
