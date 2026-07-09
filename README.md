@@ -157,43 +157,6 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Software architecture & design patterns
-  - Authentication & security best practices
-  - Scalable API design
-
-building:
-  - ReadTrack (book management platform)
-  - Personal projects to practice testing & clean architecture
-
-exploring:
-  - Automated testing strategies with Jest
-  - Deployment & basic DevOps for Node.js apps
-
-open_to:
-  - Junior / Trainee Back-End roles
-  - Internships
-  - Freelance back-end work
-  - Open source collaboration
-```
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:vitorbopelt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/vitorhugo-backend)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/VitorHBS)
-
-</div>
-
----
-
 <div align="center">
 
 *"Consistência importa mais que perfeição — cada projeto é um degrau."*
