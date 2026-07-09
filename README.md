@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1E3A8A,100:1D4ED8&height=260&section=header&text=Vitor%20Hugo&fontSize=58&fontColor=93C5FD&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Node.js%20%2F%20TypeScript%20%7C%20Building%20%26%20Learning%20in%20Public&descAlignY=58&descAlign=50" width="100%"/>
-
+  
 <a href="https://github.com/VitorHBS">
   <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer;Node.js+%26+TypeScript;Building+Secure%2C+Scalable+APIs;Always+Learning;Open+to+Junior%2FIntern+Roles&font=Fira+Code&center=true&width=650&height=50&color=60A5FA&vCenter=true&size=24&pause=1200&background=00000000"/>
 </a>
@@ -9,13 +7,11 @@
 <br/>
 
 ![Backend Developer](https://img.shields.io/badge/Focus-Back--End_Development-1D4ED8?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Location](https://img.shields.io/badge/Based_in-Rio_de_Janeiro%2C_Brazil-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/vitorhugo-backend)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:vitorbopelt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/VitorHBS)
 
 <br/>
 
