@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=260&section=header&text=Vitor%20Hugo&fontSize=58&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Node.js%20%2F%20TypeScript%20%7C%20Building%20%26%20Learning%20in%20Public&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1E3A8A,100:1D4ED8&height=260&section=header&text=Vitor%20Hugo&fontSize=58&fontColor=93C5FD&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Node.js%20%2F%20TypeScript%20%7C%20Building%20%26%20Learning%20in%20Public&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://github.com/VitorHBS">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer;Node.js+%26+TypeScript;Building+Secure%2C+Scalable+APIs;Always+Learning;Open+to+Junior%2FIntern+Roles&font=Fira+Code&center=true&width=650&height=50&color=A78BFA&vCenter=true&size=24&pause=1200&background=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer;Node.js+%26+TypeScript;Building+Secure%2C+Scalable+APIs;Always+Learning;Open+to+Junior%2FIntern+Roles&font=Fira+Code&center=true&width=650&height=50&color=60A5FA&vCenter=true&size=24&pause=1200&background=00000000"/>
 </a>
 
 <br/>
 
-![Backend Developer](https://img.shields.io/badge/Focus-Back--End_Development-4C1D95?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Location](https://img.shields.io/badge/Based_in-Rio_de_Janeiro%2C_Brazil-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Backend Developer](https://img.shields.io/badge/Focus-Back--End_Development-1D4ED8?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Location](https://img.shields.io/badge/Based_in-Rio_de_Janeiro%2C_Brazil-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vitorhugo-backend)
-[![Email](https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:vitorbopelt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/VitorHBS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/vitorhugo-backend)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:vitorbopelt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/VitorHBS)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VitorHBS&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/VitorHBS?style=for-the-badge&color=8b5cf6&labelColor=1e1b4b&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/VitorHBS?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=VitorHBS&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/VitorHBS?style=for-the-badge&color=3b82f6&labelColor=0f172a&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/VitorHBS?style=for-the-badge&color=60a5fa&labelColor=0f172a&label=STARS)
 
 </div>
 
@@ -153,11 +153,11 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=VitorHBS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="65%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=VitorHBS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=60A5FA&icon_color=3B82F6&text_color=93C5FD&ring_color=2563EB" width="65%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorHBS&theme=tokyonight&hide_border=true&background=0F0524&stroke=7C3AED&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorHBS&theme=tokyonight&hide_border=true&background=0A0E27&stroke=2563EB&ring=3B82F6&fire=60A5FA&currStreakLabel=93C5FD" width="65%"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorHBS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C4B5FD" width="65%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorHBS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=60A5FA&text_color=93C5FD" width="65%"/>
 
 </div>
 
@@ -167,7 +167,7 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=VitorHBS&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-trophies.vercel.app/?username=VitorHBS&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -177,7 +177,7 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorHBS&theme=tokyo-night&bg_color=0F0524&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorHBS&theme=tokyo-night&bg_color=0A0E27&color=60A5FA&line=3B82F6&point=93C5FD&hide_border=true" width="100%"/>
 
 </div>
 
@@ -222,9 +222,9 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:vitorbopelt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vitorhugo-backend)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/VitorHBS)
+[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:vitorbopelt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/vitorhugo-backend)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/VitorHBS)
 
 </div>
 
@@ -234,6 +234,6 @@ open_to:
 
 *"Consistência importa mais que perfeição — cada projeto é um degrau."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2E1065,100:0F0524&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:1E3A8A,100:0A0E27&height=150&section=footer" width="100%"/>
 
 </div>
