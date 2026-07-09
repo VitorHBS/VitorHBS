@@ -144,13 +144,3 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 ![](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=VitorHBS&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-<div align="center">
-
-*"Consistência importa mais que perfeição — cada projeto é um degrau."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:1E3A8A,100:0A0E27&height=150&section=footer" width="100%"/>
-
-</div>
