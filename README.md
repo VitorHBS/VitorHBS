@@ -42,18 +42,12 @@ focus:
 philosophy: "Learn in public, ship real projects, iterate."
 ```
 
-I'm a back-end developer based in Rio de Janeiro, focused on **Node.js** and **TypeScript**. I build practical projects to sharpen my skills in API design, authentication systems, and database modeling — with an emphasis on writing testable, secure code rather than just "making it work."
-
-I'm currently deepening my knowledge of **software architecture**, **authentication & security**, and **scalable API design**, and I'm actively looking for opportunities to apply and grow these skills on a real team.
+I'm a back-end developer, focused on **Node.js** and **TypeScript**. I build practical projects to sharpen my skills in API design, authentication systems, and database modeling — with an emphasis on writing testable, secure code rather than just "making it work."
 
 <table align="center">
 <tr>
 <td align="center" width="100%">
-
-**🎯 Open To**
-
-Junior / Trainee Back-End roles · Internships · Freelance back-end work · Open source collaboration
-
+  
 </td>
 </tr>
 </table>
