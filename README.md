@@ -150,6 +150,12 @@ One of the earlier projects in my learning path — solid CRUD fundamentals befo
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=VitorHBS&theme=nord&hide_border=false)<br/>
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=VitorHBS&theme=nord&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
