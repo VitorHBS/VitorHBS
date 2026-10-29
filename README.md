@@ -18,50 +18,6 @@ Building practical APIs, authentication systems, and automation tools.
 
 I'm a backend developer focused on **Node.js and TypeScript**. I build APIs and automation tools, with an emphasis on authentication, data modeling, and maintainable code.
 
-Currently working with **browser automation and data collection**, while continuing to build and test backend projects.
-
-## Experience
-
-### Junior Developer — Automation · WS Global Mobility
-**January 2026 – Present**
-
-- Built a Puppeteer automation that assigns drivers and vehicles to pending bookings in TransferZ, replacing a manual booking-by-booking process.
-- Developed a scraper to collect booking data from a partner platform across multiple regions and consolidate the results in Google Sheets.
-
-## Featured Projects
-
-### [EncurtadorURL](https://github.com/VitorHBS/EncurtadorURL)
-URL shortener REST API with link management, automatic redirects, and an analytics dashboard.
-
-**Node.js · TypeScript · Express · Prisma · PostgreSQL · JWT · Zod**
-
-- Implemented authentication and resource ownership, so users can only manage their own links.
-- Added click analytics for devices and geolocation, with aggregated data for the dashboard.
-- Applied rate limiting across multiple layers.
-
-### [ReadTrack](https://github.com/VitorHBS/ReadTrack)
-Book and reading management platform built around authenticated user accounts.
-
-**TypeScript · Express · Prisma · PostgreSQL · JWT · Jest**
-
-- Designed relational data models and database migrations with Prisma.
-- Implemented JWT authentication and unit and integration tests with Jest.
-
-### [Autenticacao-OTP-JWT](https://github.com/VitorHBS/Autenticacao-OTP-JWT)
-Authentication service combining one-time passwords and JWT sessions.
-
-**Node.js · Express · Prisma · PostgreSQL · Zod**
-
-- Built an OTP authentication flow with rate limiting.
-- Added schema validation with Zod for incoming data.
-
-### [blog-system-api](https://github.com/VitorHBS/blog-system-api)
-REST API for a blog, organized into routes, controllers, and services.
-
-**TypeScript · Node.js · Express**
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -95,17 +51,6 @@ REST API for a blog, organized into routes, controllers, and services.
 ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-## Education
-
-**Systems Analysis and Development** · UNINTER
-
-## Languages
-
-**Portuguese:** Native  
-**English:** Advanced technical reading · Basic/intermediate conversation
-
----
 
 ## GitHub Activity
 
