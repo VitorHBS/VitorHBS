@@ -8,7 +8,6 @@ Building practical APIs, authentication systems, and automation tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vitorhugo-backend)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vitorbopelt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VitorHBS)
 
 </div>
 
