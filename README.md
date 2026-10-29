@@ -51,13 +51,3 @@ I'm a backend developer focused on **Node.js and TypeScript**. I build APIs and 
 ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-## GitHub Activity
-
-<div align="center" display="flex">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=VitorHBS&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
