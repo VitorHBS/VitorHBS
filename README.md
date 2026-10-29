@@ -76,14 +76,34 @@ I'm a back-end developer, focused on **Node.js** and **TypeScript**. I build pra
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=VitorHBS&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&hide_border=true"
+        alt="GitHub stats"
+      />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=VitorHBS&layout=compact&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&hide_border=true"
+        alt="Top languages"
+      />
+    </td>
+  </tr>
+</table>
 
-![](https://streak-stats.demolab.com/?user=VitorHBS&theme=nord&hide_border=false)
+<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VitorHBS&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img
+  src="https://streak-stats.demolab.com/?user=VitorHBS&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&hide_border=true"
+  alt="GitHub streak"
+/>
 
 </div>
