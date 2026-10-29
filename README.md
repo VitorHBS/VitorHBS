@@ -1,52 +1,61 @@
 <div align="center">
 
-# Vitor Hugo Soares Barbosa
+# Vitor Hugo
 
-### Backend Developer · Node.js & TypeScript
+**Back-End Developer · Node.js & TypeScript**
 
-Building practical APIs, authentication systems, and automation tools.
+Building secure, well-tested APIs with PostgreSQL and Prisma.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vitorhugo-backend)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vitorbopelt@gmail.com)
+[LinkedIn](https://linkedin.com/in/vitorhugo-backend) ·
+[Email](mailto:vitorbopelt@gmail.com)
+
+![Focus](https://img.shields.io/badge/Focus-Backend-38BDF8?style=flat-square&labelColor=0F172A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a backend developer focused on **Node.js and TypeScript**. I build APIs and automation tools, with an emphasis on authentication, data modeling, and maintainable code.
+I'm a back-end developer focused on **Node.js and TypeScript**.
+I build practical projects around API design, authentication, and
+relational databases, with an emphasis on maintainable and testable code.
+
+Currently open to **junior and internship opportunities**.
+
+## Featured Projects
+
+### ReadTrack
+Book management platform with authenticated accounts and a responsive interface.
+
+**TypeScript · Express · Prisma · PostgreSQL · JWT · Jest**  
+[View repository →](https://github.com/VitorHBS/ReadTrack)
+
+### Autenticacao-OTP-JWT
+Authentication system combining email OTP verification and JWT, with rate limiting and Zod validation.
+
+**Node.js · Express · Prisma · PostgreSQL · Zod**  
+[View repository →](https://github.com/VitorHBS/Autenticacao-OTP-JWT)
+
+### EncurtadorURL
+REST API for short links with click analytics, automatic redirects, and expiration control.
+
+**Node.js · TypeScript · Express · Prisma · PostgreSQL · JWT**  
+[View repository →](https://github.com/VitorHBS/EncurtadorURL)
 
 ## Tech Stack
 
-**Languages**
+**Backend:** Node.js · Express · TypeScript  
+**Databases:** PostgreSQL · MySQL · Prisma  
+**Testing & Tools:** Jest · Postman · Git
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+## GitHub Stats
 
-**Backend & Automation**
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-0F172A?style=for-the-badge&logo=puppeteer&logoColor=40B5A4)
-![REST API](https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logoColor=38BDF8)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
 
-**Databases & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=5A67D8)
-
-**Authentication, Validation & Testing**
-
-![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B)
-![Zod](https://img.shields.io/badge/Zod-0F172A?style=for-the-badge&logo=zod&logoColor=3E67B1)
-![Jest](https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-**Tools & Web Basics**
-
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+</div>
