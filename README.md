@@ -54,7 +54,7 @@ I'm a backend developer focused on **Node.js and TypeScript**. I build APIs and 
 
 ## GitHub Activity
 
-<div align="center">
+<div align="center" display="flex">
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=VitorHBS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
