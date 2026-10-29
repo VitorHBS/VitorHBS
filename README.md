@@ -1,27 +1,20 @@
 <div align="center">
-  
-<a href="https://github.com/VitorHBS">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer;Node.js+%26+TypeScript;Building+Secure%2C+Scalable+APIs;Always+Learning;Open+to+Junior%2FIntern+Roles&font=Fira+Code&center=true&width=650&height=50&color=60A5FA&vCenter=true&size=24&pause=1200&background=00000000"/>
-</a>
 
-<br/>
+# Vitor Hugo
 
-![Backend Developer](https://img.shields.io/badge/Focus-Back--End_Development-1D4ED8?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Back-End Developer · Node.js & TypeScript**
 
-<br/>
+Building secure, well-tested APIs with PostgreSQL and Prisma.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/vitorhugo-backend)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:vitorbopelt@gmail.com)
+[LinkedIn](https://linkedin.com/in/vitorhugo-backend) ·
+[Email](mailto:vitorbopelt@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=VitorHBS&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/VitorHBS?style=for-the-badge&color=3b82f6&labelColor=0f172a&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/VitorHBS?style=for-the-badge&color=60a5fa&labelColor=0f172a&label=STARS)
+![Focus](https://img.shields.io/badge/Focus-Backend-38BDF8?style=flat-square&labelColor=0F172A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8)
 
 </div>
-
-<br/>
 
 ---
 
